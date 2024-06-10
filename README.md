@@ -10,6 +10,9 @@ This repository contains a LaTeX template for creating a resume.
 4. Add your profile photo and update the file path in `main.tex` accordingly.
 5. Compile the `main.tex` file to generate your resume in PDF format.
 
+## Resume : 
+![resume](./resume.png)
+
 ## Acknowledgments
 
 - The LaTeX template is based on some templates with modifications.
